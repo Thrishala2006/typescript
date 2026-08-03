@@ -1,4 +1,4 @@
-let Branch: string = "CSE(AI&DS)";
+let Branch: string = "CSE(AI&ML)";
 let age: number = 20;
 let placed: boolean = false;
 
